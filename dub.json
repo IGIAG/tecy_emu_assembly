@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Krzysztof Kubicz"
+	],
+	"copyright": "Copyright © 2024, Krzysztof Kubicz",
+	"description": "Prosty kompilator dla tecy_emu",
+	"license": "CC-BY-SA-4.0",
+	"name": "tecy_emu_assembly"
+}

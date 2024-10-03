@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tecy_emu_assembly
+tecy_emu_assembly.so
+tecy_emu_assembly.dylib
+tecy_emu_assembly.dll
+tecy_emu_assembly.a
+tecy_emu_assembly.lib
+tecy_emu_assembly-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+/.vscode
